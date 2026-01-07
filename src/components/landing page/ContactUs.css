@@ -1,0 +1,47 @@
+.custom-color {
+  color: brown;
+}
+
+.custom-bg {
+  background-color:brown;
+}
+
+.custom-btn {
+  background-color: brown;
+ color: #fff;
+  font-weight: bold;
+
+
+}
+
+.custom-btn:hover {
+  background-color: brown;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+  font-size: 10px;
+}
+
+.input-group-text {
+  border: none;
+}
+
+input:focus, textarea:focus {
+  box-shadow: none !important;
+  border: 1px solid brown;
+}
+
+.text-decoration-none {
+  text-decoration: none !important;
+}
+.box{
+  height: 600px;
+  width: 85%;
+}
+.error{
+color: red;
+}
+
+
+

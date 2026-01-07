@@ -1,0 +1,20 @@
+.bg-color
+{
+ background-color: #7F0000;
+ 
+}
+.typewriter{
+   
+    font-family: 'Courier New', Courier, monospace;
+    animation:typing 3s steps (22)infinite alternate;
+      text-shadow: 0 0 5px white,0 0 30px white;
+       text-decoration: none;
+     display: inline-block;
+      transition: background-color 0.3s ease,color 0.3 ease;
+} 
+#keyframes typing{
+    from {width: 0;}
+    to{width: 22ch;}
+    }
+
+

@@ -1,0 +1,25 @@
+.nav-link{
+    color:white;
+    font-size: px15;
+    font-weight: bold;
+     font-family: 'Times New Roman', Times, serif;
+     margin-left: 40px;
+    transition: background-color 0.3s ease,color 0.3 ease;
+     text-shadow: 0 0 5px white,0 0 30px white;
+     text-decoration: none;
+     display: inline-block;
+
+} 
+.nav-link:hover{
+    background-color:white !important;
+    color:#A52A2A;
+    border-radius: 10px;
+    transition: 1s;
+    transform: scale(1.05);
+    text-shadow: 2px 2px 6px  #A52A2A ;
+   
+}
+.navbox{
+    background-color:#A52A2A;
+
+}
